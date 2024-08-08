@@ -1,7 +1,8 @@
 #Color Customization
-highlight: "#00cccc"
-#white: "#FF0000"
-black: "#001414"
+#highlight: "#00cccc"
+highlight: "#0066cc"
+white: "#e5eff9"
+black: "#ff9933"
 
 #Image Customization
 header-image: "../img/pexels-karolina-grabowska-5477776.jpg"
